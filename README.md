@@ -1,2 +1,2 @@
-# kaggle_fertilizer_comp
-Predicting Optimal Fertilizer Kaggle Comp
+# Kaggle Fertilizer Comp
+Predicting Optimal Fertilizer Kaggle Competition
